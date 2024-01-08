@@ -9,7 +9,7 @@ public class P04VacationBooksList {
         int numberOfPages = Integer.parseInt(scanner.nextLine());
         int pagesPerHour = Integer.parseInt(scanner.nextLine());
         int days = Integer.parseInt(scanner.nextLine());
-asdasd\
+
         int timeNeeded = numberOfPages / pagesPerHour;
         int hoursPerDayNeeded = timeNeeded / days;
 
