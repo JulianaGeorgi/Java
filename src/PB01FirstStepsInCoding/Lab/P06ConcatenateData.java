@@ -1,4 +1,4 @@
-package Class;
+package PB01FirstStepsInCoding.Class;
 
 import java.util.Scanner;
 

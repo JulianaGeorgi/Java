@@ -1,4 +1,4 @@
-package Class;
+package PB01FirstStepsInCoding.Class;
 
 public class P02Nums1to10 {
     public static void main(String[] args) {

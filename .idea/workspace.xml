@@ -5,16 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="fix error">
-      <change afterPath="$PROJECT_DIR$/src/Class/P01HelloSoftUni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/P02Nums1to10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/P03RectangleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/P04InchesToCentimeters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/P05GreetingByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/P06ConcatenateData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/P07ProjectsCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/P08PetShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/P09YardGreening.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB02ConditionalStatements/Lab/P01ExcellentResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB02ConditionalStatements/Lab/P02GreaterNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB02ConditionalStatements/Lab/P03EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB02ConditionalStatements/Lab/P04PasswordGuess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB02ConditionalStatements/Lab/P05Number100To200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB02ConditionalStatements/Lab/P06SpeedInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB02ConditionalStatements/Lab/P07AreaOfFigures.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class/P01HelloSoftUni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class/P02Nums1to10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class/P03RectangleArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class/P04InchesToCentimeters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class/P05GreetingByName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class/P06ConcatenateData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class/P07ProjectsCreation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class/P08PetShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class/P09YardGreening.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/P01USDToBGN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/P02RadiansToDegrees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/P03DepositCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/P04VacationBooksList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/P05SuppliesForSchool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/P06Repainting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/P07FoodDelivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/P08BasketballEquipment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/P09FishTank.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,21 +64,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dzhuliyana/Documents/GitHub/Java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Dzhuliyana/Documents/GitHub/Java",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
-  <component name="RunManager" selected="Application.P09YardGreening">
-    <configuration name="P05GreetingByName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class.P05GreetingByName" />
+}]]></component>
+  <component name="RunManager" selected="Application.P07AreaOfFigures">
+    <configuration name="P02GreaterNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB02ConditionalStatements.Lab.P02GreaterNumber" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class.*" />
+          <option name="PATTERN" value="PB02ConditionalStatements.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P06ConcatenateData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class.P06ConcatenateData" />
+    <configuration name="P04PasswordGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB02ConditionalStatements.Lab.P04PasswordGuess" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class.*" />
+          <option name="PATTERN" value="PB02ConditionalStatements.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07ProjectsCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class.P07ProjectsCreation" />
+    <configuration name="P05Number100To200" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB02ConditionalStatements.Lab.P05Number100To200" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class.*" />
+          <option name="PATTERN" value="PB02ConditionalStatements.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P08PetShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class.P08PetShop" />
+    <configuration name="P06SpeedInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB02ConditionalStatements.Lab.P06SpeedInfo" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class.*" />
+          <option name="PATTERN" value="PB02ConditionalStatements.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P09YardGreening" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class.P09YardGreening" />
+    <configuration name="P07AreaOfFigures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB02ConditionalStatements.Lab.P07AreaOfFigures" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class.*" />
+          <option name="PATTERN" value="PB02ConditionalStatements.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P09YardGreening" />
-        <item itemvalue="Application.P08PetShop" />
-        <item itemvalue="Application.P07ProjectsCreation" />
-        <item itemvalue="Application.P06ConcatenateData" />
-        <item itemvalue="Application.P05GreetingByName" />
+        <item itemvalue="Application.P07AreaOfFigures" />
+        <item itemvalue="Application.P06SpeedInfo" />
+        <item itemvalue="Application.P05Number100To200" />
+        <item itemvalue="Application.P04PasswordGuess" />
+        <item itemvalue="Application.P02GreaterNumber" />
       </list>
     </recent_temporary>
   </component>
