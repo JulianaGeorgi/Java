@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
-      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P010InvalidNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P011FruitShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P012TradeCommissions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P01DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P02WeekendOrWorkingDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P03AnimalType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P04PersonalTitles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P05SmallShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P06NumberInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P07WorkingHours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P08CinemaTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P09FruitOrVegetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P01NumbersFrom1To100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P02NumbersNTo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P03Numbers1ToNWithStep3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P04EvenPowersOf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P05CharacterSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P06VowelsSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P07SumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P08NumberSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P09LeftAndRightSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P10OddEvenSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +58,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P01DayOfWeek">
-    <configuration name="P01DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB03ConditionalStatementsAdvanced.Lab.P01DayOfWeek" />
+  <component name="RunManager" selected="Application.P04EvenPowersOf2">
+    <configuration name="P03Numbers1ToNWithStep3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Lab.P03Numbers1ToNWithStep3" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PB03ConditionalStatementsAdvanced.Lab.*" />
+          <option name="PATTERN" value="PB04ForLoop.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P02BonusScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB02ConditionalStatements.Exercises.P02BonusScore" />
+    <configuration name="P04EvenPowersOf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Lab.P04EvenPowersOf2" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PB02ConditionalStatements.Exercises.*" />
+          <option name="PATTERN" value="PB04ForLoop.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P03Time15Minutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB02ConditionalStatements.Exercises.P03Time15Minutes" />
+    <configuration name="P05CharacterSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Lab.P05CharacterSequence" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PB02ConditionalStatements.Exercises.*" />
+          <option name="PATTERN" value="PB04ForLoop.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P04ToyShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB02ConditionalStatements.Exercises.P04ToyShop" />
+    <configuration name="P06VowelsSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Lab.P06VowelsSum" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PB02ConditionalStatements.Exercises.*" />
+          <option name="PATTERN" value="PB04ForLoop.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07Shopping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB02ConditionalStatements.Exercises.P07Shopping" />
+    <configuration name="P08NumberSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Lab.P08NumberSequence" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PB02ConditionalStatements.Exercises.*" />
+          <option name="PATTERN" value="PB04ForLoop.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P01DayOfWeek" />
-        <item itemvalue="Application.P07Shopping" />
-        <item itemvalue="Application.P02BonusScore" />
-        <item itemvalue="Application.P04ToyShop" />
-        <item itemvalue="Application.P03Time15Minutes" />
+        <item itemvalue="Application.P04EvenPowersOf2" />
+        <item itemvalue="Application.P08NumberSequence" />
+        <item itemvalue="Application.P06VowelsSum" />
+        <item itemvalue="Application.P05CharacterSequence" />
+        <item itemvalue="Application.P03Numbers1ToNWithStep3" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705420950429</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Practice tasks">
+      <created>1706544884681</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706544884681</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
