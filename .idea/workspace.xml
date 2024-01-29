@@ -4,15 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="wip">
-      <change afterPath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P01SumSeconds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P02BonusScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P03Time15Minutes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P04ToyShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P05GodzillavsKong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P06WorldSwimmingRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P07Shopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P08LunchBreak.java" afterDir="false" />
+    <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
+      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P010InvalidNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P011FruitShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P012TradeCommissions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P01DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P02WeekendOrWorkingDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P03AnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P04PersonalTitles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P05SmallShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P06NumberInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P07WorkingHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P08CinemaTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P09FruitOrVegetable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +60,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P07Shopping">
-    <configuration name="P01SumSeconds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB02ConditionalStatements.Exercises.P01SumSeconds" />
+  <component name="RunManager" selected="Application.P01DayOfWeek">
+    <configuration name="P01DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB03ConditionalStatementsAdvanced.Lab.P01DayOfWeek" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PB02ConditionalStatements.Exercises.*" />
+          <option name="PATTERN" value="PB03ConditionalStatementsAdvanced.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P01DayOfWeek" />
         <item itemvalue="Application.P07Shopping" />
         <item itemvalue="Application.P02BonusScore" />
         <item itemvalue="Application.P04ToyShop" />
         <item itemvalue="Application.P03Time15Minutes" />
-        <item itemvalue="Application.P01SumSeconds" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705252656413</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Practice tasks">
+      <created>1705420950429</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705420950429</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,7 +233,8 @@
     <MESSAGE value="Tasks from practice classdsa" />
     <MESSAGE value="fix error" />
     <MESSAGE value="wip" />
-    <option name="LAST_COMMIT_MESSAGE" value="wip" />
+    <MESSAGE value="Practice tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice tasks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
