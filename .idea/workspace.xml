@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P01NumbersFrom1To100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P02NumbersNTo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P03Numbers1ToNWithStep3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P01Cinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P02SummerOutfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P03NewHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P04FishingBoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P05Journey.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P04EvenPowersOf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P05CharacterSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P06VowelsSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P07SumNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P08NumberSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P09LeftAndRightSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P10OddEvenSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,13 +54,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P04EvenPowersOf2">
-    <configuration name="P03Numbers1ToNWithStep3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Lab.P03Numbers1ToNWithStep3" />
+  <component name="RunManager" selected="Application.P05Journey">
+    <configuration name="P02SummerOutfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Exercises.P02SummerOutfit" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PB04ForLoop.Lab.*" />
+          <option name="PATTERN" value="PB04ForLoop.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P04EvenPowersOf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Lab.P04EvenPowersOf2" />
+    <configuration name="P03NewHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Exercises.P03NewHouse" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PB04ForLoop.Lab.*" />
+          <option name="PATTERN" value="PB04ForLoop.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P05CharacterSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Lab.P05CharacterSequence" />
+    <configuration name="P04FishingBoat (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P04FishingBoat" />
+      <module name="Java-Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P04FishingBoat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Exercises.P04FishingBoat" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PB04ForLoop.Lab.*" />
+          <option name="PATTERN" value="PB04ForLoop.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,25 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P06VowelsSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Lab.P06VowelsSum" />
+    <configuration name="P05Journey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Exercises.P05Journey" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PB04ForLoop.Lab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P08NumberSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Lab.P08NumberSequence" />
-      <module name="Java-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PB04ForLoop.Lab.*" />
+          <option name="PATTERN" value="PB04ForLoop.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P04EvenPowersOf2" />
-        <item itemvalue="Application.P08NumberSequence" />
-        <item itemvalue="Application.P06VowelsSum" />
-        <item itemvalue="Application.P05CharacterSequence" />
-        <item itemvalue="Application.P03Numbers1ToNWithStep3" />
+        <item itemvalue="Application.P05Journey" />
+        <item itemvalue="Application.P04FishingBoat (1)" />
+        <item itemvalue="Application.P04FishingBoat" />
+        <item itemvalue="Application.P03NewHouse" />
+        <item itemvalue="Application.P02SummerOutfit" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706544884681</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Practice tasks">
+      <created>1706553955504</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706553955504</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
