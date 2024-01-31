@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P01Cinema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P02SummerOutfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P03NewHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P04FishingBoat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P05Journey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P06OperationsBetweenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P07HotelRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P08OnTimeForTheExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P09SkiTrip.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P04EvenPowersOf2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -54,33 +53,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P05Journey">
-    <configuration name="P02SummerOutfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Exercises.P02SummerOutfit" />
-      <module name="Java-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PB04ForLoop.Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P03NewHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Exercises.P03NewHouse" />
-      <module name="Java-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PB04ForLoop.Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P07HotelRoom">
     <configuration name="P04FishingBoat (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P04FishingBoat" />
       <module name="Java-Basics" />
@@ -114,13 +87,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P06OperationsBetweenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Exercises.P06OperationsBetweenNumbers" />
+      <module name="Java-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PB04ForLoop.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P07HotelRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Exercises.P07HotelRoom" />
+      <module name="Java-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PB04ForLoop.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P07HotelRoom" />
+        <item itemvalue="Application.P06OperationsBetweenNumbers" />
         <item itemvalue="Application.P05Journey" />
         <item itemvalue="Application.P04FishingBoat (1)" />
         <item itemvalue="Application.P04FishingBoat" />
-        <item itemvalue="Application.P03NewHouse" />
-        <item itemvalue="Application.P02SummerOutfit" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706553955504</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Practice tasks">
+      <created>1706629609057</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706629609057</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
