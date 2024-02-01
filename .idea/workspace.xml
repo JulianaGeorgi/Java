@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P06OperationsBetweenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P07HotelRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P08OnTimeForTheExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P09SkiTrip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P01NumbersEndingIn7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P02HalfSumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P03Histogram.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P04EvenPowersOf2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P01Cinema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P02SummerOutfit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P03NewHouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P04FishingBoat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P05Journey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P06OperationsBetweenNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P07HotelRoom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P08OnTimeForTheExam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P09SkiTrip.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +61,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P07HotelRoom">
-    <configuration name="P04FishingBoat (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P04FishingBoat" />
-      <module name="Java-Basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P04FishingBoat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Exercises.P04FishingBoat" />
+  <component name="RunManager" selected="Application.P01NumbersEndingIn7">
+    <configuration name="P01NumbersEndingIn7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Exercises.P01NumbersEndingIn7" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
@@ -70,6 +71,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P04FishingBoat (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P04FishingBoat" />
+      <module name="Java-Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P01NumbersEndingIn7" />
         <item itemvalue="Application.P07HotelRoom" />
         <item itemvalue="Application.P06OperationsBetweenNumbers" />
         <item itemvalue="Application.P05Journey" />
         <item itemvalue="Application.P04FishingBoat (1)" />
-        <item itemvalue="Application.P04FishingBoat" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706629609057</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Practice tasks">
+      <created>1706717078193</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706717078193</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
