@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
       <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P04CleverLily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P05Salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P01ReadText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P02Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P03SumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P04Sequence2kPlus1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P05AccountBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P06MaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P07MinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P08Graduation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,20 +54,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P03SumNumbers">
-    <configuration name="P01NumbersEndingIn7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Exercises.P01NumbersEndingIn7" />
-      <module name="Java-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PB04ForLoop.Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P08Graduation">
     <configuration name="P01ReadText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PB05WhileLoop.Lab.P01ReadText" />
       <module name="Java-Basics" />
@@ -93,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P04CleverLily" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Exercises.P04CleverLily" />
+    <configuration name="P05AccountBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB05WhileLoop.Lab.P05AccountBalance" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PB04ForLoop.Exercises.*" />
+          <option name="PATTERN" value="PB05WhileLoop.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07HotelRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB04ForLoop.Exercises.P07HotelRoom" />
+    <configuration name="P06MaxNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB05WhileLoop.Lab.P06MaxNumber" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PB04ForLoop.Exercises.*" />
+          <option name="PATTERN" value="PB05WhileLoop.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P08Graduation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB05WhileLoop.Lab.P08Graduation" />
+      <module name="Java-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PB05WhileLoop.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P08Graduation" />
+        <item itemvalue="Application.P06MaxNumber" />
+        <item itemvalue="Application.P05AccountBalance" />
         <item itemvalue="Application.P03SumNumbers" />
         <item itemvalue="Application.P01ReadText" />
-        <item itemvalue="Application.P04CleverLily" />
-        <item itemvalue="Application.P01NumbersEndingIn7" />
-        <item itemvalue="Application.P07HotelRoom" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706875992971</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Practice tasks">
+      <created>1707741323902</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1707741323902</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
