@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class P02ExamPreparation {
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
 
         int failedThreshold = Integer.parseInt(scanner.nextLine());
@@ -13,16 +14,16 @@ public class P02ExamPreparation {
         String lastProblem = "";
         boolean isFailed = true;
 
-        while(failedTimes < failedThreshold){
+        while (failedTimes < failedThreshold) {
             String problemName = scanner.nextLine();
 
-            if("Enough".equals(problemName)){
+            if ("Enough".equals(problemName)) {
                 isFailed = false;
                 break;
             }
 
             int grade = Integer.parseInt(scanner.nextLine());
-            if(grade <= 4){
+            if (grade <= 4) {
                 failedTimes++;
             }
 
@@ -31,10 +32,10 @@ public class P02ExamPreparation {
             lastProblem = problemName;
         }
 
-        if(isFailed){
+        if (isFailed) {
             System.out.printf("You need a break, %d poor grades.", failedThreshold);
         } else {
-            System.out.printf("Average score: %.2f%n", gradesSum /solvedProblemsCount);
+            System.out.printf("Average score: %.2f%n", gradesSum / solvedProblemsCount);
             System.out.printf("Number of problems: %d%n", solvedProblemsCount);
             System.out.printf("Last problem: %s", lastProblem);
         }

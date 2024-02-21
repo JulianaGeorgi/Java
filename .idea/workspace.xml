@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
       <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P04CleverLily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P01OldBooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P02ExamPreparation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P03Vacation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P04Walking.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P02ExamPreparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P02ExamPreparation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P01OldBooks">
+  <component name="RunManager" selected="Application.P03Vacation">
     <configuration name="P01OldBooks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PB05WhileLoop.Exercises.P01OldBooks" />
       <module name="Java-Basics" />
@@ -65,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P03SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PB05WhileLoop.Lab.P03SumNumbers" />
+    <configuration name="P03Vacation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PB05WhileLoop.Exercises.P03Vacation" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PB05WhileLoop.Lab.*" />
+          <option name="PATTERN" value="PB05WhileLoop.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P03Vacation" />
         <item itemvalue="Application.P01OldBooks" />
         <item itemvalue="Application.P08Graduation" />
         <item itemvalue="Application.P06MaxNumber" />
         <item itemvalue="Application.P05AccountBalance" />
-        <item itemvalue="Application.P03SumNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707754563648</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Practice tasks">
+      <created>1708512845089</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1708512845089</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
