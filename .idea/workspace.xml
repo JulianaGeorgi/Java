@@ -6,10 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
       <change afterPath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P04CleverLily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P03Vacation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P04Walking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P05Coins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P06Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P07Moving.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P02ExamPreparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P02ExamPreparation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708512845089</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Practice tasks">
+      <created>1708517552734</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1708517552734</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
