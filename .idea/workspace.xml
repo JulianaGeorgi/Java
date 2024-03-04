@@ -4,94 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
+    <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Reorganized folders">
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F01StudentInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F02Passed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F03PassedOrFailed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F04TimeAfter30Minutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F05MonthPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F06ForeignLanguages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F07TheatrePromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F08DivisibleBy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F09SumOfOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F11EvenNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Exercises/P01USDToBGN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Exercises/P01USDToBGN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Exercises/P02RadiansToDegrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Exercises/P02RadiansToDegrees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Exercises/P03DepositCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Exercises/P03DepositCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Exercises/P04VacationBooksList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Exercises/P04VacationBooksList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Exercises/P05SuppliesForSchool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Exercises/P05SuppliesForSchool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Exercises/P06Repainting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Exercises/P06Repainting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Exercises/P07FoodDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Exercises/P07FoodDelivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Exercises/P08BasketballEquipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Exercises/P08BasketballEquipment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Exercises/P09FishTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Exercises/P09FishTank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Lab/P01HelloSoftUni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Lab/P01HelloSoftUni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Lab/P02Nums1to10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Lab/P02Nums1to10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Lab/P03RectangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Lab/P03RectangleArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Lab/P04InchesToCentimeters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Lab/P04InchesToCentimeters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Lab/P05GreetingByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Lab/P05GreetingByName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Lab/P06ConcatenateData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Lab/P06ConcatenateData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Lab/P07ProjectsCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Lab/P07ProjectsCreation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Lab/P08PetShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Lab/P08PetShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB01FirstStepsInCoding/Lab/P09YardGreening.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB01FirstStepsInCoding/Lab/P09YardGreening.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P01SumSeconds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Exercises/P01SumSeconds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P02BonusScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Exercises/P02BonusScore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P03Time15Minutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Exercises/P03Time15Minutes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P04ToyShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Exercises/P04ToyShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P05GodzillavsKong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Exercises/P05GodzillavsKong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P06WorldSwimmingRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Exercises/P06WorldSwimmingRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P07Shopping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Exercises/P07Shopping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB02ConditionalStatements/Exercises/P08LunchBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Exercises/P08LunchBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB02ConditionalStatements/Lab/P01ExcellentResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Lab/P01ExcellentResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB02ConditionalStatements/Lab/P02GreaterNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Lab/P02GreaterNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB02ConditionalStatements/Lab/P03EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Lab/P03EvenOrOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB02ConditionalStatements/Lab/P04PasswordGuess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Lab/P04PasswordGuess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB02ConditionalStatements/Lab/P05Number100To200.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Lab/P05Number100To200.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB02ConditionalStatements/Lab/P06SpeedInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Lab/P06SpeedInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB02ConditionalStatements/Lab/P07AreaOfFigures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Lab/P07AreaOfFigures.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P010InvalidNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB03ConditionalStatementsAdvanced/Lab/P010InvalidNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P011FruitShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB03ConditionalStatementsAdvanced/Lab/P011FruitShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P012TradeCommissions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB03ConditionalStatementsAdvanced/Lab/P012TradeCommissions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P01DayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB03ConditionalStatementsAdvanced/Lab/P01DayOfWeek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P02WeekendOrWorkingDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB03ConditionalStatementsAdvanced/Lab/P02WeekendOrWorkingDay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P03AnimalType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB03ConditionalStatementsAdvanced/Lab/P03AnimalType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P04PersonalTitles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB03ConditionalStatementsAdvanced/Lab/P04PersonalTitles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P05SmallShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB03ConditionalStatementsAdvanced/Lab/P05SmallShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P06NumberInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB03ConditionalStatementsAdvanced/Lab/P06NumberInRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P07WorkingHours.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB03ConditionalStatementsAdvanced/Lab/P07WorkingHours.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P08CinemaTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB03ConditionalStatementsAdvanced/Lab/P08CinemaTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB03ConditionalStatementsAdvanced/Lab/P09FruitOrVegetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB03ConditionalStatementsAdvanced/Lab/P09FruitOrVegetable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P01NumbersEndingIn7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB04ForLoop/Exercises/P01NumbersEndingIn7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P02HalfSumElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB04ForLoop/Exercises/P02HalfSumElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P03Histogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB04ForLoop/Exercises/P03Histogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Exercises/P05Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB04ForLoop/Exercises/P05Salary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P01NumbersFrom1To100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB04ForLoop/Lab/P01NumbersFrom1To100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P02NumbersNTo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB04ForLoop/Lab/P02NumbersNTo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P03Numbers1ToNWithStep3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB04ForLoop/Lab/P03Numbers1ToNWithStep3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P04EvenPowersOf2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB04ForLoop/Lab/P04EvenPowersOf2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P05CharacterSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB04ForLoop/Lab/P05CharacterSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P06VowelsSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB04ForLoop/Lab/P06VowelsSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P07SumNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB04ForLoop/Lab/P07SumNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P08NumberSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB04ForLoop/Lab/P08NumberSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P09LeftAndRightSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB04ForLoop/Lab/P09LeftAndRightSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB04ForLoop/Lab/P10OddEvenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB04ForLoop/Lab/P10OddEvenSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P01OldBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB05WhileLoop/Exercises/P01OldBooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P02ExamPreparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB05WhileLoop/Exercises/P02ExamPreparation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P03Vacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB05WhileLoop/Exercises/P03Vacation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P04Walking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB05WhileLoop/Exercises/P04Walking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P05Coins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB05WhileLoop/Exercises/P05Coins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P06Cake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB05WhileLoop/Exercises/P06Cake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Exercises/P07Moving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB05WhileLoop/Exercises/P07Moving.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P01ReadText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB05WhileLoop/Lab/P01ReadText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P02Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB05WhileLoop/Lab/P02Password.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P03SumNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB05WhileLoop/Lab/P03SumNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P04Sequence2kPlus1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB05WhileLoop/Lab/P04Sequence2kPlus1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P05AccountBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB05WhileLoop/Lab/P05AccountBalance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P06MaxNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB05WhileLoop/Lab/P06MaxNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P07MinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB05WhileLoop/Lab/P07MinNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB05WhileLoop/Lab/P08Graduation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB05WhileLoop/Lab/P08Graduation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB06NestedLoops/Exercises/P01NumberPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB06NestedLoops/Exercises/P01NumberPyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB06NestedLoops/Exercises/P02EqualSumsEvenOddPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB06NestedLoops/Exercises/P02EqualSumsEvenOddPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB06NestedLoops/Exercises/P03SumPrimeNonPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB06NestedLoops/Exercises/P03SumPrimeNonPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB06NestedLoops/Exercises/P04TrainTheTrainers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB06NestedLoops/Exercises/P04TrainTheTrainers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB06NestedLoops/Exercises/P05SpecialNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB06NestedLoops/Exercises/P05SpecialNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB06NestedLoops/Exercises/P06CinemaTickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB06NestedLoops/Exercises/P06CinemaTickets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB06NestedLoops/Lab/P01Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB06NestedLoops/Lab/P01Clock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB06NestedLoops/Lab/P02MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB06NestedLoops/Lab/P02MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB06NestedLoops/Lab/P03Combinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB06NestedLoops/Lab/P03Combinations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB06NestedLoops/Lab/P04SumOfTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB06NestedLoops/Lab/P04SumOfTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB06NestedLoops/Lab/P05Travelling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB06NestedLoops/Lab/P05Travelling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PB06NestedLoops/Lab/P06Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/PB06NestedLoops/Lab/P06Building.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,16 +49,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dzhuliyana/Documents/GitHub/Java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Dzhuliyana/Documents/GitHub/Java",
+    "settings.editor.selected.configurable": "tasks.servers"
   }
-}</component>
-  <component name="RunManager" selected="Application.P03Vacation">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Basics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.F04TimeAfter30Minutes">
+    <configuration name="F01StudentInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Lab.F01StudentInformation" />
+      <module name="Java-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F04TimeAfter30Minutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Lab.F04TimeAfter30Minutes" />
+      <module name="Java-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P01OldBooks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basics.PB05WhileLoop.Exercises.P01OldBooks" />
       <module name="Java-Basics" />
@@ -161,32 +116,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P05AccountBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.PB05WhileLoop.Lab.P05AccountBalance" />
-      <module name="Java-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basics.PB05WhileLoop.Lab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P06MaxNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.PB05WhileLoop.Lab.P06MaxNumber" />
-      <module name="Java-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basics.PB05WhileLoop.Lab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="P08Graduation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basics.PB05WhileLoop.Lab.P08Graduation" />
       <module name="Java-Basics" />
@@ -202,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.F04TimeAfter30Minutes" />
+        <item itemvalue="Application.F01StudentInformation" />
         <item itemvalue="Application.P03Vacation" />
         <item itemvalue="Application.P01OldBooks" />
         <item itemvalue="Application.P08Graduation" />
-        <item itemvalue="Application.P06MaxNumber" />
-        <item itemvalue="Application.P05AccountBalance" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708517552734</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Reorganized folders">
+      <created>1709550529024</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709550529024</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,7 +314,8 @@
     <MESSAGE value="fix error" />
     <MESSAGE value="wip" />
     <MESSAGE value="Practice tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice tasks" />
+    <MESSAGE value="Reorganized folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reorganized folders" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
