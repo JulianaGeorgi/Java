@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F01Ages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F02Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F04PrintAndSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F3Vacation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F05Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F06StrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/Ф10PadawanEquipment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,21 +42,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Dzhuliyana/Documents/GitHub/Java",
-    "settings.editor.selected.configurable": "tasks.servers"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dzhuliyana/Documents/GitHub/Java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;tasks.servers&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.F04PrintAndSum">
+  <component name="RunManager" selected="Application.F06StrongNumber">
     <configuration name="F02Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F02Division" />
       <module name="Java-Basics" />
@@ -84,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F04TimeAfter30Minutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Lab.F04TimeAfter30Minutes" />
+    <configuration name="F05Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F05Login" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Lab.*" />
+          <option name="PATTERN" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F10MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Lab.F10MultiplicationTable" />
+    <configuration name="F06StrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F06StrongNumber" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Lab.*" />
+          <option name="PATTERN" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.F06StrongNumber" />
+        <item itemvalue="Application.F05Login" />
         <item itemvalue="Application.F04PrintAndSum" />
         <item itemvalue="Application.F02Division" />
         <item itemvalue="Application.F12RefactorSumofOddNumbers" />
-        <item itemvalue="Application.F10MultiplicationTable" />
-        <item itemvalue="Application.F04TimeAfter30Minutes" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709628541989</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Practice tasks">
+      <created>1709630791769</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1709630791769</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -342,6 +348,11 @@
           <url>file://$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F12RefactorSumofOddNumbers.java</url>
           <line>8</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F06StrongNumber.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
