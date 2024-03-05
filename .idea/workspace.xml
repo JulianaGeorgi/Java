@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Reorganized folders">
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F01StudentInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F02Passed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F03PassedOrFailed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F04TimeAfter30Minutes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F05MonthPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F06ForeignLanguages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F07TheatrePromotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F08DivisibleBy3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F09SumOfOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F11EvenNumber.java" afterDir="false" />
+    <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F01Ages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F02Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F04PrintAndSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F3Vacation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,13 +57,26 @@
       <recent name="Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.F04TimeAfter30Minutes">
-    <configuration name="F01StudentInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Lab.F01StudentInformation" />
+  <component name="RunManager" selected="Application.F04PrintAndSum">
+    <configuration name="F02Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F02Division" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Lab.*" />
+          <option name="PATTERN" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F04PrintAndSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F04PrintAndSum" />
+      <module name="Java-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P01OldBooks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.PB05WhileLoop.Exercises.P01OldBooks" />
+    <configuration name="F10MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Lab.F10MultiplicationTable" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.PB05WhileLoop.Exercises.*" />
+          <option name="PATTERN" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,25 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P03Vacation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.PB05WhileLoop.Exercises.P03Vacation" />
+    <configuration name="F12RefactorSumofOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Lab.F12RefactorSumofOddNumbers" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.PB05WhileLoop.Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P08Graduation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.PB05WhileLoop.Lab.P08Graduation" />
-      <module name="Java-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basics.PB05WhileLoop.Lab.*" />
+          <option name="PATTERN" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.F04PrintAndSum" />
+        <item itemvalue="Application.F02Division" />
+        <item itemvalue="Application.F12RefactorSumofOddNumbers" />
+        <item itemvalue="Application.F10MultiplicationTable" />
         <item itemvalue="Application.F04TimeAfter30Minutes" />
-        <item itemvalue="Application.F01StudentInformation" />
-        <item itemvalue="Application.P03Vacation" />
-        <item itemvalue="Application.P01OldBooks" />
-        <item itemvalue="Application.P08Graduation" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +261,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709550529024</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Reorganized folders">
+      <created>1709575984504</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709575984504</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Practice tasks">
+      <created>1709628541989</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709628541989</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,9 +321,9 @@
     <MESSAGE value="Tasks from practice classdsa" />
     <MESSAGE value="fix error" />
     <MESSAGE value="wip" />
-    <MESSAGE value="Practice tasks" />
     <MESSAGE value="Reorganized folders" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reorganized folders" />
+    <MESSAGE value="Practice tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice tasks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -329,6 +337,11 @@
           <url>file://$PROJECT_DIR$/src/Basics/PB02ConditionalStatements/Exercises/P07Shopping.java</url>
           <line>13</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Lab/F12RefactorSumofOddNumbers.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
