@@ -2,7 +2,7 @@ package Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises;
 
 import java.util.Scanner;
 
-public class F3Vacation {
+public class F03Vacation {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
