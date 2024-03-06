@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F05Messages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/DataTypesAndVariables/Lab/F01ConvertMetersToKilometers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/DataTypesAndVariables/Lab/F02PoundsToDollars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
