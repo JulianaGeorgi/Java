@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F01SortNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F02EnglishNameOfTheLastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F05Messages.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
       <recent name="Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.F02EnglishNameOfTheLastDigit">
+  <component name="RunManager" selected="Application.F05Messages">
     <configuration name="F01SortNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F01SortNumbers" />
       <module name="Java-Basics" />
@@ -82,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F08TriangleOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F08TriangleOfNumbers" />
+    <configuration name="F03GamingStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F03GamingStore" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F09Orders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F09Orders" />
+    <configuration name="F04ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F04ReverseString" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F11RageExpenses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F11RageExpenses" />
+    <configuration name="F05Messages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F05Messages" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.F05Messages" />
+        <item itemvalue="Application.F04ReverseString" />
+        <item itemvalue="Application.F03GamingStore" />
         <item itemvalue="Application.F02EnglishNameOfTheLastDigit" />
         <item itemvalue="Application.F01SortNumbers" />
-        <item itemvalue="Application.F11RageExpenses" />
-        <item itemvalue="Application.F09Orders" />
-        <item itemvalue="Application.F08TriangleOfNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +293,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709655787199</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Practice tasks">
+      <created>1709722332390</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1709722332390</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Practice tasks">
+      <created>1709726598010</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1709726598010</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,6 +384,21 @@
           <url>file://$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F08TriangleOfNumbers.java</url>
           <line>10</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F03GamingStore.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F04ReverseString.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F05Messages.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
