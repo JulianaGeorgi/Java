@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F07VendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F08TriangleOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F09Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F11RageExpenses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F01SortNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F02EnglishNameOfTheLastDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F3Vacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fundamentals/BasicSyntaxConditionalStatementsAndLoops/Exercises/F03Vacation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +55,9 @@
       <recent name="Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.F11RageExpenses">
-    <configuration name="F05Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F05Login" />
+  <component name="RunManager" selected="Application.F02EnglishNameOfTheLastDigit">
+    <configuration name="F01SortNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F01SortNumbers" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F06StrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F06StrongNumber" />
+    <configuration name="F02EnglishNameOfTheLastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.BasicSyntaxConditionalStatementsAndLoops.Exercises.F02EnglishNameOfTheLastDigit" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.F02EnglishNameOfTheLastDigit" />
+        <item itemvalue="Application.F01SortNumbers" />
         <item itemvalue="Application.F11RageExpenses" />
         <item itemvalue="Application.F09Orders" />
         <item itemvalue="Application.F08TriangleOfNumbers" />
-        <item itemvalue="Application.F06StrongNumber" />
-        <item itemvalue="Application.F05Login" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709639204777</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Practice tasks">
+      <created>1709655787199</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1709655787199</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
