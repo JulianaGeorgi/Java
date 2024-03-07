@@ -6,13 +6,11 @@ public class F05PrintPartOfASCIITable {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int firstCharPosition = Integer.parseInt(scanner.nextLine());
-        int lastCharPosition = Integer.parseInt(scanner.nextLine());
-        String concatChars = "";
+        int start = Integer.parseInt(scanner.nextLine());
+        int end = Integer.parseInt(scanner.nextLine());
 
-        for (int position = firstCharPosition; position <= lastCharPosition; position++) {
-            concatChars = concatChars + (char) position + " ";
+        for (int asciiValue = start; asciiValue <= end; asciiValue++) {
+            System.out.print((char) asciiValue + " ");
         }
-        System.out.println(concatChars);
     }
 }
