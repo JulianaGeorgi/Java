@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/DataTypesAndVariables/Exercises/F01IntegerOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/DataTypesAndVariables/Exercises/F02SumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/DataTypesAndVariables/Exercises/F03Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/DataTypesAndVariables/Exercises/F04SumofChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentals/DataTypesAndVariables/Exercises/F05PrintPartOfASCIITable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,7 @@
       <recent name="Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.F02SumDigits">
+  <component name="RunManager" selected="Application.F05PrintPartOfASCIITable">
     <configuration name="F01IntegerOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fundamentals.DataTypesAndVariables.Exercises.F01IntegerOperations" />
       <module name="Java-Basics" />
@@ -82,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F05ConcatNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fundamentals.DataTypesAndVariables.Lab.F05ConcatNames" />
+    <configuration name="F03Elevator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.DataTypesAndVariables.Exercises.F03Elevator" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Fundamentals.DataTypesAndVariables.Lab.*" />
+          <option name="PATTERN" value="Fundamentals.DataTypesAndVariables.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F09CenturiesToMinutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fundamentals.DataTypesAndVariables.Lab.F09CenturiesToMinutes" />
+    <configuration name="F04SumofChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.DataTypesAndVariables.Exercises.F04SumofChars" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Fundamentals.DataTypesAndVariables.Lab.*" />
+          <option name="PATTERN" value="Fundamentals.DataTypesAndVariables.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F10SpecialNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fundamentals.DataTypesAndVariables.Lab.F10SpecialNumbers" />
+    <configuration name="F05PrintPartOfASCIITable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.DataTypesAndVariables.Exercises.F05PrintPartOfASCIITable" />
       <module name="Java-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Fundamentals.DataTypesAndVariables.Lab.*" />
+          <option name="PATTERN" value="Fundamentals.DataTypesAndVariables.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.F05PrintPartOfASCIITable" />
+        <item itemvalue="Application.F04SumofChars" />
+        <item itemvalue="Application.F03Elevator" />
         <item itemvalue="Application.F02SumDigits" />
         <item itemvalue="Application.F01IntegerOperations" />
-        <item itemvalue="Application.F10SpecialNumbers" />
-        <item itemvalue="Application.F09CenturiesToMinutes" />
-        <item itemvalue="Application.F05ConcatNames" />
       </list>
     </recent_temporary>
   </component>
