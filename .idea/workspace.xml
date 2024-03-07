@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks">
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/DataTypesAndVariables/Lab/F09CenturiesToMinutes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fundamentals/DataTypesAndVariables/Lab/F10SpecialNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8cf0c1e1-333d-4cfd-a9a5-d61182c6a665" name="Changes" comment="Practice tasks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
